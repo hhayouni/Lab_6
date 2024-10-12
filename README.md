@@ -20,9 +20,9 @@ $ git status
 ```sh
 $ git add [file_name]
 ```
-> Adding **all** files to be staged :
+> Adding all files to be staged :
 ```sh
-$ git add .
+$ git add.
 ```
 
 - Unstaging a file
@@ -30,9 +30,19 @@ $ git add .
 $ git rm --cached [file_name]
 ```
 
+- ignoring a file :
+```sh
+$ nano .gitignore
+```
+
 - Commit
 ```sh
 $ git commit -m “commit message”
+```
+
+- seeing the records :
+```sh
+$ git log
 ```
 
 - Change branch name
