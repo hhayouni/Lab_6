@@ -1,16 +1,15 @@
 # Lab 6
 
----
 # Git
 Version Control and Collaboration / Git is essential to use a version control system for software development and other documentation works.
 (Modified, Staged, Commited)
 
----
+
 # How to install
 - Linux / Mac / Windows (check pre-installed version)
 ```sh
 $ git --version
-```
+
 =>
 - Linux : 
 ```sh
