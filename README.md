@@ -5,7 +5,7 @@
 - Centralized Version Control (Uses a Central VCS Server for version history)
 - Distributed Version Control (Every contributor has a whole copy of the project)
 
-## Next
+## How to
 - Initializing a Repository in an Existing Directory :
 ```sh
 $ git init
