@@ -20,7 +20,7 @@ $ git status
 ```sh
 $ git add [file_name]
 ```
-> Adding all files to be staged :
+- Adding all files to be staged :
 ```sh
 $ git add.
 ```
